@@ -15,7 +15,7 @@ global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
 global.vs = '1.1.5'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+56971516161" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
